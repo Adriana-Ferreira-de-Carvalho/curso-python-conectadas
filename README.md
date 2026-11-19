@@ -5,6 +5,8 @@ Repositório criado para armazenar meus exercícios, anotações e projetos dese
 ## 📂 Arquivos do Repositório
 
 * **`primeiros-passos.py`**: Primeiros testes e comandos básicos em Python.
+* * **[`GUIA-GIT.md`](./GUIA-GIT.md)**: Resumo prático de comandos Git e GitHub para consulta rápida.
+
 
 ## 🛠️ Tecnologias Utilizadas
 
